@@ -1,0 +1,26 @@
+h1{
+   background-color: yellowgreen ;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+body{
+   height: 100vh;
+   background:linear-gradient(rgb(252, 252, 173), rgb(183, 245, 183));
+   font-family: arial;
+
+}
+
+input{
+background:rgb(252, 222, 127);
+border-radius: 30px;
+}
+
+button{
+   padding: 10px;
+   background: aquamarine;
+}
+select{
+   padding: 5px;
+   background: aquamarine;
+}
